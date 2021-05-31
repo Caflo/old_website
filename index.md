@@ -4,7 +4,7 @@ layout: custom
 
 ## whoami
 
-Hi! I'm Carlo Cannarsa. I'm a **Cybersecurity student** and my passion is IT security.  
+Hi! I'm Carlo Cannarsa. I'm a **Cybersecurity student** and my passion is IT security and Software Engineering.  
 I am also a self-learner, and I like to keep up with this field by staying updated and discovering new things. I hope you will like my profile (:
 
 
