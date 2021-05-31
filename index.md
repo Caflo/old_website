@@ -29,7 +29,7 @@ I am also a self-learner, and I like to keep up with this field by staying updat
 
 
 ## echo "$MAIN_SKILLS"
-### **progaramming**:
+### **programming**:
 ![Histogram](/images/languages.png)
 Frameworks used: _Yii2_ (PHP), _Hibernate_ (DB management with Java), _Spring_ (Java), _J2EE_ (Java Enterprise)
 
@@ -44,15 +44,15 @@ Frameworks used: _Yii2_ (PHP), _Hibernate_ (DB management with Java), _Spring_ (
   * VPN configuration (OpenVPN)
   * high availability (Master-slave configuration)
   * packet filtering
+  * Iptables (Firewall configuration)
 
 ### **network tools**:
   * Cisco Packet Tracer (Network design)
   * Proxmox VE (Network design)
   * Wireshark (Network testing and analysis)
-  * Iptables (Firewall configuration)
 
 
-### **DBs**
+### **DBs used**
 
   * MySQL
   * Oracle
@@ -60,10 +60,10 @@ Frameworks used: _Yii2_ (PHP), _Hibernate_ (DB management with Java), _Spring_ (
 
 ### **.NET**
   * implementation of most common mathematical models for statistics 
-  * development of 2D flexible charts with _Graphics_ library
-  * _Graphics_ library optimization
+  * development of 2D optimized and flexible charts with _Graphics_ library
 
 ## echo "$OTHER_SKILLS"
+* Design patterns to build complex and mantainable software
 * Android application design and development (Java/Kotlin)
 * project management (application life cycle)
 * team working and management 

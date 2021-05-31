@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Carlo Cannarsa | MSc Cybersecurity student at Sapienza University</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Carlo Cannarsa" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="MSc Cybersecurity student at Sapienza University" />
-<meta property="og:description" content="MSc Cybersecurity student at Sapienza University" />
-<meta property="og:site_name" content="Carlo Cannarsa" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Carlo Cannarsa" />
-<script type="application/ld+json">
-{"url":"/","@type":"WebSite","headline":"Carlo Cannarsa","description":"MSc Cybersecurity student at Sapienza University","name":"Carlo Cannarsa","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body>
-
-    <header>
-      <div class="container">
-        <a id="a-title" href="/">
-          <h1>Carlo Cannarsa</h1>
-        </a>
-        <h2>MSc Cybersecurity student at Sapienza University</h2>
-
-        <section id="downloads">
-            <div class="topnav">
-              <code class="w3-codespan" style="color:#990000;">goto:</code>
-              <a href="index.html" class="btn btn-primary" style="color:#B5E853;">Home</a>
-              <a href="portfolio.html" class="btn btn-primary" style="color:#B5E853;">Portfolio</a>
-              <a href="contact-me.html" class="btn btn-primary" style="color:#B5E853;">Contact me</a>
-            </div>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <h2 id="whoami">whoami</h2>
+I"�<h2 id="whoami">whoami</h2>
 
 <p>Hi! I’m Carlo Cannarsa. I’m a <strong>Cybersecurity student</strong> and my passion is IT security.<br />
 I am also a self-learner, and I like to keep up with this field by staying updated and discovering new things. I hope you will like my profile (:</p>
@@ -119,22 +73,16 @@ Frameworks used: <em>Yii2</em> (PHP), <em>Hibernate</em> (DB management with Jav
 <h3 id="net"><strong>.NET</strong></h3>
 <ul>
   <li>implementation of most common mathematical models for statistics</li>
-  <li>development of 2D optimized and flexible charts with <em>Graphics</em> library</li>
+  <li>development of 2D flexible charts with <em>Graphics</em> library</li>
+  <li><em>Graphics</em> library optimization</li>
 </ul>
 
 <h2 id="echo-other_skills">echo “$OTHER_SKILLS”</h2>
 <ul>
-  <li>Design patterns to build complex and mantainable software</li>
   <li>Android application design and development (Java/Kotlin)</li>
   <li>project management (application life cycle)</li>
   <li>team working and management</li>
   <li>LateX user</li>
   <li>vim-friendly</li>
 </ul>
-
-      </section>
-    </div>
-
-    
-  </body>
-</html>
+:ET

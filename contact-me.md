@@ -2,8 +2,8 @@
 layout: custom
 ---
 
-## Welcome to another page
+## Email
 
-_yay_
+* carlo.cannarsa@gmail.com
 
 [back](./)

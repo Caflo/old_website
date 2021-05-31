@@ -2,8 +2,8 @@
 layout: custom
 ---
 
-## Welcome to another page
+## 500 Internal Server Error
 
-_yay_
+_On developing_
 
 [back](./)
